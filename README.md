@@ -21,3 +21,14 @@ The R&D focuses on:
 * GitHub REST API
 
 This is a test repository and does not contain production data.
+
+## Planned POC
+
+The proof of concept will:
+
+1. Authenticate with the GitHub REST API.
+2. Retrieve commits from the repository.
+3. Retrieve pull requests from the repository.
+4. Filter activity from the last 30 days.
+5. Calculate basic repository statistics.
+6. Generate a JSON summary report.
