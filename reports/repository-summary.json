@@ -1,0 +1,30 @@
+{
+  "repository": "Neha6383/repository-api-rnd",
+  "period": {
+    "from": "2026-08-04T09:46:51.702Z",
+    "to": "2026-09-03T09:46:58.202Z"
+  },
+  "statistics": {
+    "totalCommits": 11,
+    "commitsPerAuthor": {
+      "Neha6383": 11
+    },
+    "totalPullRequests": 1,
+    "mergedPullRequests": 1,
+    "averagePRCreationToMergeSeconds": 358
+  },
+  "pullRequests": [
+    {
+      "number": 1,
+      "title": "feat: implement GitHub repository API POC",
+      "author": "Neha6383",
+      "state": "closed",
+      "createdAt": "2026-09-03T09:35:57Z",
+      "closedAt": "2026-09-03T09:41:55Z",
+      "mergedAt": "2026-09-03T09:41:55Z",
+      "reviewCount": 0,
+      "commentCount": 0,
+      "reviews": []
+    }
+  ]
+}
